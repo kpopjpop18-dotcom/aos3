@@ -2,9 +2,10 @@
   "$schema": "./manifest.schema.json",
   "version": 1,
   "cards": [
-    { "id": "example-common-1", "image": "/cards/5e13cf6b06fbc237cdacb213ed8c5cd1", "rarity": "common" },
-    { "id": "example-rare-1",   "image": "/cards/example-rare-1.svg",   "rarity": "rare" },
-    { "id": "example-ultra-1",  "image": "/cards/example-ultra-1.svg",  "rarity": "ultra" },
-    { "id": "example-impossible-1", "image": "/cards/example-impossible-1.svg", "rarity": "impossible" }
+    { "id": "mingi-common-1", "image": "/cards/5e13cf6b06fbc237cdacb213ed8c5cd1.jpg", "rarity": "common" },
+    { "id": "wooyoung-common-1", "image": "/cards/5f05e95fc028ea6a8b4ae041f49158c0.jpg", "rarity": "common" },    
+    { "id": "mingi-rare-1",   "image": "/cards/6a1ccb79b54e2987fd3a1febea7b7437.jpg",   "rarity": "rare" },
+    { "id": "dejavu-ultra-1",  "image": "/cards/6ae53495437b8933913fc18eaa369eb8.jpg",  "rarity": "ultra" },
+    { "id": "wooyoung-impossible-1", "image": "/cards/6fdeb89f9ad148e48e222848088a18e1.jpg", "rarity": "impossible" }
   ]
 }
