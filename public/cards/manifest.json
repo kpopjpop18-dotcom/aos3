@@ -1,0 +1,10 @@
+{
+  "$schema": "./manifest.schema.json",
+  "version": 1,
+  "cards": [
+    { "id": "example-common-1", "image": "/cards/example-common-1.svg", "rarity": "common" },
+    { "id": "example-rare-1",   "image": "/cards/example-rare-1.svg",   "rarity": "rare" },
+    { "id": "example-ultra-1",  "image": "/cards/example-ultra-1.svg",  "rarity": "ultra" },
+    { "id": "example-impossible-1", "image": "/cards/example-impossible-1.svg", "rarity": "impossible" }
+  ]
+}
